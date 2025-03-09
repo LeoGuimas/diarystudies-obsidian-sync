@@ -8,7 +8,7 @@ Reforçando mais uma vez que preciso aprender melhor ==NumPy, Pandas e Matplotli
 
 Lado bom de aprender ML agora é que vai de encontro com as coisas que vamos estudar em ME (Matemática Elementar) e na faculdade nova em Geral
 
-O que são hiperparâmetros?
+O que são [[Hiperparâmetros]]?
 
 
 
