@@ -14,6 +14,7 @@ Kaggle.com ( bom site para treino de IA e ML com competições)
 
 um dos primeiros aplicativos criados com ML e que melhorou a vida de muita gente foi um ==filtro de spam==
 :: eu não esperava por isso::
-e esse rec
+e esse recurso serviu de exemplo para outros aplicativos de ML que silenciosamente fornecem produtos e recursos de recomendações que utilizamos muito
+
 
 # Referências
