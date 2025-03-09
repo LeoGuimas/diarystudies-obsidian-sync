@@ -12,5 +12,8 @@ O que são [[Hiperparâmetros]]?
 
 Kaggle.com ( bom site para treino de IA e ML com competições)
 
+um dos primeiros aplicativos criados com ML e que melhorou a vida de muita gente foi um ==filtro de spam==
+:: eu não esperava por isso::
+e esse rec
 
 # Referências
