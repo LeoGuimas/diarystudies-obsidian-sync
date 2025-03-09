@@ -7,6 +7,10 @@ Tópicos:  #IA  #MachineLearning
 ## O que é:
 é a ciência (e a arte) da programação de computadores para que eles possam aprender com os dados
 
-## d
+## Definição mais abrangente:
+ML é o campo de estudo que dá aos computadores a habilidade de aprender sem ser explicitamente programado
+~Arthur Samuel, 1959
+
+
 
 # Referências
