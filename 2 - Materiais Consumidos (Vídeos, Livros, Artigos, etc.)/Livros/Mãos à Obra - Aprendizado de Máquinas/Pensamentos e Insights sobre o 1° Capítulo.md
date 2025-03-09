@@ -2,7 +2,7 @@
 
 Status:
 
-Tópicos: #MachineLearning #AprendizagemDeMáquinas #IA
+Tópicos: #MachineLearning #IA 
 
 Reforçando mais uma vez que preciso aprender melhor ==NumPy, Pandas e Matplotlib== e mais matemática de nível superior.
 

@@ -2,8 +2,11 @@
 
 Status:
 
-Tópicos: #AprendizagemDeMáquinas #IA  #MãosÁObra-
+Tópicos:  #IA  #MachineLearning 
 
+## O que é:
+é a ciência (e a arte) da programação de computadores para que eles possam aprender com os dados
 
+## d
 
 # Referências
