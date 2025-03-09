@@ -2,10 +2,10 @@
 
 Status:
 
-Tags: #IA #Programação
+Tópicos: #IA #Programação
 
 Utilizando ==pandas== pra gestão de dados e ==matplotlib== pra plotar gráficos
-Gráficos de dispersão mostra a correlação entre duas variaveis (caso exista)
+Gráficos de dispersão mostra a correlação entre duas variáveis (caso exista)
 
 
 
