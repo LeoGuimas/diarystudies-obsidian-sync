@@ -11,7 +11,7 @@ Gráficos de dispersão mostra a correlação entre duas variáveis (caso exista
 
 Preciso ter ideias de como isso que eu estou estudando pode ser útil pra sociedade pra me motivar a continuar estudando ==(pesquisar)==
 
-
+Preciso de uma base melhor de matemática
 
 
 
