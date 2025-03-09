@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Matérias/P1 - Matemática Elementar/Notas/Regressão Linear.md",
+                "file": "2 - Materiais Consumidos (Vídeos, Livros, Artigos, etc.)/Videos/Seu primeiro projeto de Inteligência Artificial com Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regressão Linear"
+              "title": "Seu primeiro projeto de Inteligência Artificial com Python"
             }
           }
         ]
@@ -179,10 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fa21ec6c6ffca9c",
+  "active": "280461f9c4ba1e3f",
   "lastOpenFiles": [
-    "5 - Matérias/P1 - Matemática Elementar/Notas/Noção de Conjuntos.md",
+    "2 - Materiais Consumidos (Vídeos, Livros, Artigos, etc.)/Videos/Seu primeiro projeto de Inteligência Artificial com Python.md",
     "5 - Matérias/P1 - Matemática Elementar/Notas/Regressão Linear.md",
+    "2 - Materiais Consumidos (Vídeos, Livros, Artigos, etc.)/Videos",
+    "5 - Matérias/P1 - Matemática Elementar/Notas/Noção de Conjuntos.md",
     "1 - Notas Temporárias/a.md",
     "2 - Materiais Consumidos (Vídeos, Livros, Artigos, etc.)/a.md",
     "4 - Indexes/a.md",
