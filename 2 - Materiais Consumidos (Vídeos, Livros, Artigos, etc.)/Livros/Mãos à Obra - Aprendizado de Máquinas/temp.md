@@ -10,6 +10,7 @@ Lado bom de aprender ML agora é que vai de encontro com as coisas que vamos est
 
 O que são [[Hiperparâmetros]]?
 
+Kaggle.com ( bom site para treino de IA e ML com competições)
 
 
 # Referências
