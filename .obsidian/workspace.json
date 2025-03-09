@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Matérias/P1 - Matemática Elementar/Notas/Regressão Linear.md",
+                "file": "2 - Materiais Consumidos (Vídeos, Livros, Artigos, etc.)/Videos/Seu primeiro projeto de Inteligência Artificial com Python.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Regressão Linear"
+              "title": "Sumário de Seu primeiro projeto de Inteligência Artificial com Python"
             }
           },
           {
@@ -160,13 +160,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "9070b6b680d77ca9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,14 +189,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "280461f9c4ba1e3f",
+  "active": "8fa21ec6c6ffca9c",
   "lastOpenFiles": [
+    "2 - Materiais Consumidos (Vídeos, Livros, Artigos, etc.)/a.md",
+    "Calendar/2025-03-17.md",
+    "Calendar",
     "2 - Materiais Consumidos (Vídeos, Livros, Artigos, etc.)/Videos/Seu primeiro projeto de Inteligência Artificial com Python.md",
     "5 - Matérias/P1 - Matemática Elementar/Notas/Regressão Linear.md",
     "2 - Materiais Consumidos (Vídeos, Livros, Artigos, etc.)/Videos",
     "5 - Matérias/P1 - Matemática Elementar/Notas/Noção de Conjuntos.md",
     "1 - Notas Temporárias/a.md",
-    "2 - Materiais Consumidos (Vídeos, Livros, Artigos, etc.)/a.md",
     "4 - Indexes/a.md",
     "3 - Tópicos/Matemática Elementar.md",
     "6 - Template/Note Template.md",
